@@ -1,5 +1,5 @@
 from models import Student,Course
-
+import  random
 
 student_list = []
 courses_list = []
